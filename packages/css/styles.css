@@ -533,14 +533,14 @@ img {
 }
 
 .skills__python {
-  width: 60%;
+  width: 70%;
 }
 
 .skills__tab {
   width: 70%;
 }
 
-.skills__sql {
+.skills__java {
   width: 50%;
 }
 
@@ -548,8 +548,8 @@ img {
   width: 70%;
 }
 
-.skills__bank {
-  width: 80%;
+.skills__flutter {
+  width: 40%;
 }
 
 .skills__google {
@@ -562,6 +562,25 @@ img {
 
 .skills__office {
   width: 90%;
+}
+.skills__excel {
+  width: 90%;
+}
+
+.skills__sheets {
+  width: 80%;
+}
+
+.skills__powerbi {
+  width: 65%;
+}
+
+.skills__n8n {
+  width: 50%;
+}
+
+.skills__powerauto{
+  width: 70%;
 }
 
 .skills__close .skills__list {
